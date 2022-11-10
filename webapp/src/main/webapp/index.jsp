@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
-    <h1> Created by Krishna Parvathi Sailappan </h1>	  
-     
+    <h2> Created by Krishna Parvathi Sailappan </h2>	  
+    <hr> 
     <label for="Name"><b>Enter Name</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
