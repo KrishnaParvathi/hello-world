@@ -1,7 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1> This is Krishna Parvathi Sailappan </h1>	  
-    <h2>New user Registration </h2>
+    <h1> Created by Krishna Parvathi Sailappan </h1>	  
     <p>Please fill in this form to create an account.</p>
     <hr>
      
